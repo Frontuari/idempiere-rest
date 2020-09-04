@@ -1,3 +1,4 @@
+Further development at https://github.com/bxservice/idempiere-rest
 
 # Experimental iDempiere Rest API
 
